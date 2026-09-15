@@ -124,13 +124,6 @@ theme_override_colors/font_hover_color = Color(0.9999998, 0.87847877, 0.58870065
 text = "New Game
 "
 
-[node name="Settings" type="Button" parent="CanvasLayer/ColorRect/LoadPanel/MarginContainer/VBoxContainer/Buttons2" unique_id=615491088]
-layout_mode = 2
-theme_override_colors/font_color = Color(1, 0.7764706, 0.039215688, 1)
-theme_override_colors/font_focus_color = Color(1, 0.8156863, 0.3372549, 1)
-theme_override_colors/font_hover_color = Color(0.9999998, 0.87847877, 0.58870065, 1)
-text = "Settings"
-
 [node name="QuitButton" type="Button" parent="CanvasLayer/ColorRect/LoadPanel/MarginContainer/VBoxContainer/Buttons2" unique_id=168837924]
 layout_mode = 2
 theme_override_colors/font_color = Color(1, 0.7764706, 0.039215688, 1)
