@@ -20,6 +20,7 @@ var game_mode:GameMode = GameMode.NORMAL
 @export var auto_load_game = false
 
 func _ready():
+	Engine.max_fps = 120
 	Globals.stop_music()
 	game_mode = GameMode.NORMAL
 	Globals._on_level_loaded()
