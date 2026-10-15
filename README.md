@@ -12,17 +12,19 @@ Inspired by Timez Attack, Cogni Crawl is a 3D dungeon crawler that helps you mem
 
 ---
 
+
 ![Enemy Fight](https://github.com/Lightning323/MemorizationDungeonCrawler/blob/main/assets/screenshots/Screenshot%202025-11-25%20151800.png)
-## 🧠 Features
+
+## Features
 - Procedurally generated dungeons
 - Fight enemies and earn keys
-- Data driven JSON flashcards allow you to use any set of flashcards you want
+- Data driven JSON flashcards allow you to use any set of flashcards you want!
 
 ---
 
 ![Movement](https://github.com/Lightning323/MemorizationDungeonCrawler/blob/main/assets/screenshots/Screenshot%202025-11-25%20150412.jpg)
-## 🎮 Controls
-- **WASD** → walk around like you mean it  
-- **Mouse** → look around suspiciously
+
+## Controls
+- **WASD** → walk around  
 - **CTRL** → FPS menu
-- **ESC** → panic pause  
+- **ESC** → HUD menu
