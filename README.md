@@ -1,5 +1,4 @@
 ![Splash](https://github.com/Lightning323/Cogni-Crawl/blob/main/splash.png)
-# Cogni Crawl
 ### Built for the 2025 Hackathon  
 Inspired by Timez Attack, Cogni Crawl is a 3D dungeon crawler that helps you memorize short form facts (math tables, musical notes, etc) in an entertaining way. Put your memory to the test with Cogni Crawl!
 
