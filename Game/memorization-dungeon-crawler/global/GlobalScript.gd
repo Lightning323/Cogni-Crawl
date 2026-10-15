@@ -62,7 +62,10 @@ func play_music():
 func stop_music():
 	fantasy_music.stop()
 
+const MAX_FPS = 120
+
 func _ready():
+	Engine.max_fps = MAX_FPS
 	_in_editor = Engine.is_embedded_in_editor()
 	print("Global loaded! In editor: ",is_in_editor())
 	CARD_MISSING_IMAGE = load("res://assets/icons/card_missing_image.png")

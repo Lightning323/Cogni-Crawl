@@ -292,6 +292,7 @@ func apply_graphics_level(level: int) -> void:
 				#env.glow_enabled = true
 				#env.volumetric_fog_enabled = true
 			graphics.text = "Graphics: Max"
+	Engine.max_fps = Globals.MAX_FPS
 
 
 
